@@ -33,7 +33,7 @@
 - 사용 언어 및 프레임워크: JavaScript, React Native, Nginx, Python, Mysql, Azure, yolov8
 - 참고: [https://github.com/BODY-CHECK/Front-End.git](https://github.com/BODY-CHECK/Front-End.git)
 
-### 🏆2024-2 산학 프로젝트: BODY-CHECK
+### 🏆2024 산학 프로젝트: BODY-CHECK
 
 - 주제: AI 홈트 애플리케이션
 - 활동: Front-End, UI / UX
@@ -41,7 +41,7 @@
 - 사용 언어 및 프레임워크: JavaScript, React Native
 - 참고: [https://github.com/BODY-CHECK/Front-End.git](https://github.com/BODY-CHECK/Front-End.git)
 
-### 2024-2 IoT 프로젝트: FARM SENSE
+### 2024 IoT 프로젝트: FARM SENSE
 
 - 주제: 센서 및 모듈을 이용한 스마트팜 미니어쳐
 - 활동: PM, Embedded Develop
@@ -57,7 +57,7 @@
 - 사용 언어 및 프레임 워크: JavaScript, React
 - 참고: [https://github.com/PETWIF/Front-End.git](https://github.com/PETWIF/Front-End.git)
 
-### 🏆2023-2 Adventure Desgin 프로젝트: 마음이 닿기를
+### 🏆2023 Adventure Desgin 프로젝트: 마음이 닿기를
 
 - 주제: 메타버스 장례식 및 추모 모바일 애플리케이션 기획
 - 활동: UI /UX, 기획
