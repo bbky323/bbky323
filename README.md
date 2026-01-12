@@ -7,6 +7,7 @@
 # Currently Working On
 
 - 우리 FISA 6기 클라우드 엔지니어링 (2025.12~)
+ -Java Stream API 학습 정리: [https://github.com/janie71/Java-Stream](https://github.com/janie71/Java-Stream)
 
 # 🛠️ Tech Stacks
 
