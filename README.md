@@ -8,6 +8,7 @@
 
 - 우리 FISA 6기 클라우드 엔지니어링 (2025.12~)
   - Java Stream API 학습 정리: [https://github.com/janie71/Java-Stream](https://github.com/janie71/Java-Stream)
+  - Elasic Search & Kibana를 이용한 데이터 분석: https://github.com/bbky323/ElasticSearch_mini.git
 
 # 🛠️ Tech Stacks
 
