@@ -28,15 +28,15 @@
 | AI | ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white) |
 
 # Projects 📂
-<!-- 
+
 ### 2025 반려동물 홈캠 프로젝트: PET-G
 
 - 주제: AI 기반 반려동물 훈련 기능이 탑재된 홈캠 서비스
 - 활동: Front-End, UI / UX, Back-End, AI, Infra
 - 사용 Tool: VScode, Github
 - 사용 언어 및 프레임워크: JavaScript, React Native, Nginx, Python, Mysql, Azure, yolov8
-- 참고: [https://github.com/BODY-CHECK/Front-End.git](https://github.com/BODY-CHECK/Front-End.git)
--->
+- 참고: [https://github.com/MSproject-PetG](https://github.com/MSproject-PetG)
+
 ### 🏆2024 산학 프로젝트: BODY-CHECK
 
 - 주제: AI 홈트 애플리케이션
