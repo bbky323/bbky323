@@ -7,9 +7,11 @@
 # Currently Working On
 
 - 우리 FISA 6기 클라우드 엔지니어링 (2025.12~)
-  - Java Stream API 학습 정리: [https://github.com/janie71/Java-Stream](https://github.com/janie71/Java-Stream)
-  - Elasic Search & Kibana를 이용한 데이터 분석: https://github.com/bbky323/ElasticSearch_mini.git
-  - n8n을 이용한 카드 결제 내역 DB 적재 파이프라인 자동화: [https://github.com/WooriFISA-n8n-team/n8n-project.git](https://github.com/WooriFISA-n8n-team/n8n-project.git)
+  - [Java Stream API 학습 정리](https://github.com/janie71/Java-Stream)
+  - [Elasic Search & Kibana를 이용한 데이터 분석](https://github.com/bbky323/ElasticSearch_mini.git)
+  - [n8n을 이용한 카드 결제 내역 DB 적재 파이프라인 자동화](https://github.com/WooriFISA-n8n-team/n8n-project.git)
+  - [Linux Serach 명령어, Tool 학습 정리](https://github.com/bbky323/FISA-LinuxSearch.git)
+  - [VMware 실습: 증권 회사 인프라 구축](https://github.com/fisa-network-virtualization/VMware.git)
 
 # 🛠️ Tech Stacks
 
@@ -60,7 +62,7 @@
 - 참고: [마음이 닿기를 시연 영상 sample.mp4](%25EB%25A7%2588%25EC%259D%258C%25EC%259D%25B4_%25EB%258B%25BF%25EA%25B8%25B0%25EB%25A5%25BC_%25EC%258B%259C%25EC%2597%25B0_%25EC%2598%2581%25EC%2583%2581_sample.mp4)
 
 
-# History ⏳
+# ⏳ History 
 
  - 우리 FISA 6기 클라우드 엔지니어링 (2025.12~)
  - 경기도경제과학진흥원 주관 마이크로소프트 인공지능(AI) 전문인력 양성 과정 수료 (2025.06 ~ 2025.07)
@@ -72,13 +74,13 @@
  - 한국항공대학교 소프트웨어학과 제 9대 학생회 Cloud 기획부장 (2022.12 ~ 2023.11)
  - 육군 병장 만기 전역 (2020.08 ~ 2022.02)
 
-# Awards 🏆
+# 🏆 Awards 
 
 - 25-2 2025 차세대통신 ICT 융합 프로젝트 경진대회 3등 우수상
 - 24-2 한국항공대학교 AI 융합대학 산학프로젝트 과목  1등 학장상 수상
 - 23-2 한국항공대학교 AI 융합대학 Adventure Design 과목 1등 학장상 수상
 
-# Certificated 🪪
+# 🪪 Certificated
 
 - 리눅스 마스터 2급
 - AI-900: Microsoft Azure AI Fundamentals
