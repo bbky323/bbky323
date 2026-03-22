@@ -11,7 +11,7 @@
   - [Elasic Search & Kibana를 이용한 데이터 분석](https://github.com/bbky323/ElasticSearch_mini.git)
   - [n8n을 이용한 카드 결제 내역 DB 적재 파이프라인 자동화](https://github.com/WooriFISA-n8n-team/n8n-project.git)
   - [Linux Serach 명령어, Tool 학습 정리](https://github.com/bbky323/FISA-LinuxSearch.git)
-  - [VMware 실습: 증권 회사 인프라 구축](https://github.com/fisa-network-virtualization/VMware.git)
+  - [VMware 실습: 가상화 인프라 구축 프로젝트](https://github.com/fisa-network-virtualization/VMware.git)
 
 # 🛠️ Tech Stacks
 
