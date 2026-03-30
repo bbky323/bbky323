@@ -10,8 +10,12 @@
   - [Java Stream API 학습 정리](https://github.com/janie71/Java-Stream)
   - [Elasic Search & Kibana를 이용한 데이터 분석](https://github.com/bbky323/ElasticSearch_mini.git)
   - [n8n을 이용한 카드 결제 내역 DB 적재 파이프라인 자동화](https://github.com/WooriFISA-n8n-team/n8n-project.git)
+  - [우리 FISA 1차 기술 세미나: 로드 밸런서](https://github.com/wooxxo/seminar-LB.git)
   - [Linux Serach 명령어, Tool 학습 정리](https://github.com/bbky323/FISA-LinuxSearch.git)
   - [VMware 실습: 가상화 인프라 구축 프로젝트](https://github.com/fisa-network-virtualization/VMware.git)
+  - [Linux Inotify 학습](https://github.com/seajihey/Fisa_inotify.git)
+  - [Docker 이미지 최적화](https://github.com/minwoo-00/fisa_docker.git)
+  - [Docker Compose 학습](https://github.com/bbky323/fisa_docker_compose.git)
 
 # 🛠️ Tech Stacks
 
