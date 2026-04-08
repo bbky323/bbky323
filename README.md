@@ -16,6 +16,7 @@
   - [Linux Inotify 학습](https://github.com/seajihey/Fisa_inotify.git)
   - [Docker 이미지 최적화](https://github.com/minwoo-00/fisa_docker.git)
   - [Docker Compose 학습](https://github.com/bbky323/fisa_docker_compose.git)
+  - [2차 기술세미나 - VDI](https://github.com/bbky323/FISA_VDI.git)
 
 # 🛠️ Tech Stacks
 
